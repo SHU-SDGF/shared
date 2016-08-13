@@ -22,6 +22,8 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
     淘宝镜像：https://npm.taobao.org/
 
 # 前端人员请阅读
+## Visual Code
+``Visual Code`` 是微软提供的文本编辑器。十分适合这个项目的编写.请同学自行下载。
 ## ES6
 老版本的javascript写法我就不细说了，请自行百度搜索W3C javascript
 ES6是最新的JavaScript版本，我们在项目当中会使用ES6的语法进行开发。
