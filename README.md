@@ -1,6 +1,5 @@
 
 # 前后端开发人员都需要安装
----
 ## npm
  npm 是目前最流行的程序依赖集管理。在隧道股份的项目中，无论前端还是后端都会用到npm作为辅助开发的重要部分。但是同学们不需要了解npm的细节的内容，但是干嘛用的还是要需要有个概念的。下面第一个链接是简介，第二个链接是下载地址。请同学自行选择适合自己操作系统的版本下载。
     
@@ -23,7 +22,6 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
     淘宝镜像：https://npm.taobao.org/
 
 # 前端人员请阅读
----
 ## ES6
 老版本的javascript写法我就不细说了，请自行百度搜索W3C javascript
 ES6是最新的JavaScript版本，我们在项目当中会使用ES6的语法进行开发。
